@@ -16,7 +16,8 @@ npm run start
 ```
 
 # Website Link
-[Innovators Home](https://www.linkedin.com/company/innovators-home/)
+## This repository got deployed on vercel as static web
+[Vercel Link](https://git-github-workshops.vercel.app/)
 
 # Resources Link
 [Resources Link](https://sunset-agenda-480.notion.site/Exploring-Git-and-GitHub-46349a389070408ca9fa44279ec950b50)
