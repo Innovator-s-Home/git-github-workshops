@@ -27,7 +27,7 @@ npm run start
 
 Contributions are higly appreciated. It could be new features, bug-fix, documentation and others.
 
-Please browse any exisiting [issues](https://github.com/Innovator-s-Home/git-github-workshops.git/issues) or open up a new one. 
+Please browse any exisiting [issues](https://github.com/Innovator-s-Home/git-github-workshops/issues) or open up a new one. 
 
 Contribution Steps:
 
@@ -35,4 +35,4 @@ Contribution Steps:
  - Clone the forked repository to your machine.
  - Create a new branch named after the issue you're working on.
  - Commit your changes, push the changes to GitHub.
- - Open a pull request [here](https://github.com/Innovator-s-Home/git-github-workshops.git/pulls)
+ - Open a pull request [here](https://github.com/Innovator-s-Home/git-github-workshops/pulls)
