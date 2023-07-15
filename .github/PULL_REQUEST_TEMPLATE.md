@@ -18,14 +18,15 @@ Fixes #(issue)
 
 ## How should this be tested?
 
-<!-- Please describe the tests that you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration -->
+<!-- Please describe the tests you ran to verify your changes. Provide instructions so we can reproduce. Please also list any relevant details for your test configuration -->
 
 - [ ] Test A
 - [ ] Test B
 
-## Mandatory Tasks
+## Mandatory Tasks 
 
-- [ ] Make sure you have self-reviewed the code. A decent size PR without self-review might be rejected.
+<!--Make sure you have self-reviewed the code. A decent size PR without self-review might be rejected. -->
+- [ ] I self-reviewed the code
 
 ## Checklist
 
